@@ -1,4 +1,4 @@
-# SAFT Managing Security and Identity for Azure Solutions 
+# Managing Security and Identity for Azure Solutions 
 
 # Lab Answer Key: Securing Secrets in Azure
 
