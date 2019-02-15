@@ -139,7 +139,7 @@
 
     - In the **Storage** section, ensure that the **Create new** option is selected and accept the default value of the Storage Account name. 
 
-    - In the **Application Insights** section, click **Off**.
+    - In the **Application Insights** section, click **Disabled**.
 
     - Click the **Create** button.
 
